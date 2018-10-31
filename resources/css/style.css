@@ -1,0 +1,61 @@
+body{
+
+  background-color: black;
+  text-align: center;
+  /*margin-top: -27px;
+  margin-left: -8px;
+  margin-right: -8px;*/
+  width: 1000px;
+  margin: auto;
+
+}
+
+#titulo{
+
+  font-family: verdana, monospace;
+  font-weight: normal;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+
+}
+
+.titulo2{
+
+  color: aquamarine;
+  font-size: 10px;
+  text-decoration: underline;
+  font-weight: normal;
+
+}
+
+.titulo3{
+
+  font-family: verdana, monospace;
+  font-weight: 300;
+  font-size: 15px;
+  color: white;
+
+}
+
+#titulo4{
+
+  font-family: verdana, monospace;
+  font-size: 10px;
+  color: gray;
+
+}
+
+.phone{
+
+  margin-top: 30px;
+
+}
+
+.marca{
+
+  text-align: right;
+  color: gray;
+  font-family: helvetica, monospace;
+
+}
